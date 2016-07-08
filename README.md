@@ -58,6 +58,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Ponyville Live! Desktop App](https://chrome.google.com/webstore/detail/ponyville-live-desktop-ap/hladljgddjaoinnigfcokaglahhcpilm) - An all in one location for all your favourite pony stations!
 
+- [qt-ponies](https://github.com/myszha/qt-ponies) - Desktop ponies in Qt
+
 ## iOS apps
 
 - [Derpiboo](https://github.com/auzbuzzard/project-derpi) - An iOS app project for derpibooru.org written by an amateur programmer.
