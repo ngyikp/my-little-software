@@ -128,8 +128,10 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Waiting is Magic](http://pentastudios.com/games/waitingismagic/) - Play Rainbow Dash in this groundbreaking game and bounce a ball against a wall.
 
-## Misc
+## Programming languages
 
 - [FiM++](http://fimpp.wikia.com/wiki/FiM%2B%2B_Wiki) - FiM++ attempts to be an easy-to-read-aloud programming language that, if you didn't know it was a program, you would think is a letter.
+
+## Misc
 
 - [PonyAPI](https://github.com/Xe/PonyAPI) - A simple REST API for My Little Pony: Friendship is Magic episodes and many clients for it
