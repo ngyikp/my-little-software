@@ -76,6 +76,10 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [PonyMotes](https://play.google.com/store/apps/details?id=com.dinsfire.ponymotes) - An Android utility for managing the thousands of PonyMotes that are available from dozens of pony subreddits on Reddit.
 
+## Windows Store apps
+
+- [My Little Pony Portal](https://www.microsoft.com/en-us/store/apps/my-little-pony-portal/9wzdncrdg6rr) (semi-defunct) - A feature-rich application that combines several functions and services related to My Little Pony.
+
 ## Browser extensions/bookmarklets/related stuff
 
 - [BetterPonymotes](https://ponymotes.net/bpm/) - View Reddit ponymotes across the site
