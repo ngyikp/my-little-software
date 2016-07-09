@@ -38,6 +38,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [MyLittleFaceWhen](http://mylittlefacewhen.com) - Express yourself with ponies
 
+- [My Little Wallpaper](https://www.mylittlewallpaper.com) - Wallpapers are Magic
+
 - [PonyCrush](http://ponycrush.com) - A fun brony dating site.
 
 - [Pony.fm](https://pony.fm) - The world's largest collection of My Little Pony fan music.
