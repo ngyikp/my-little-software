@@ -122,7 +122,7 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [PonyClicker](https://blackhole12.github.io/PonyClicker/ponyclicker.html) - A new way to waste time on your computer, now with ponies!
 
-- [Pony Town](https://town.aggie.io) (semi-defunct)
+- [Pony Town](https://pony.town)
 
 - [PonyVRville](http://kaitouace.com/vr/) - A MLP inspired, and Oculus Rift DK2 (0.6 SDK) enabled, virtual horse simulator.
 
