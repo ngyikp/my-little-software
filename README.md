@@ -20,6 +20,8 @@ This list is far from complete, please feel free to contribute your suggestions!
 
 - [Pony Fusion](http://ponyar.net/pony_fusion/) - Colorful equines!
 
+- [PonyMindBleach.com](http://www.ponymindbleach.com) - Your source for diabeetus EXTREME!
+
 - [Visual Transcript of My Little Pony: Friendship is Magic](https://mlp.meebleforp.com/visualization/) - Visualization of My Little Pony episode transcripts
 
 ## Website platforms
