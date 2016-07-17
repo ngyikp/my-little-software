@@ -32,7 +32,7 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [BronyTunes](https://bronytunes.com) - Listen to music by all of your favorite brony musicians, and discover new ones!
 
-- [Cloudsdale](https://github.com/cloudsdaleapp) (defunct) - A realtime chat application for the Web, iOS, Android and Windows Phone, primarily designed for bronies.
+- [Cloudsdale](https://web.archive.org/web/20141227192045/https://www.cloudsdale.org/) (defunct) - A realtime chat application for the Web, iOS, Android and Windows Phone, primarily designed for bronies.
 
 - [Derpibooru](https://derpibooru.org) - An artwork sharing website/imageboard, primarily targeted at the My Little Pony community.
 
@@ -136,7 +136,7 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Fallout Equestria: Game](http://theovermare.com/blog/2016/02/wave-3-demo-better-late-than-never-edition)
 
-- [Fighting is Magic](http://mlpfanart.wikia.com/wiki/Fighting_is_Magic) (defunct)
+- [Fighting is Magic](https://web.archive.org/web/20130208141634/http://www.mane6.com/) (defunct) - A fan-made 2d fighting game based on the popular cartoon series My Little Pony: Friendship is Magic.
 
 - [Friendship is Epic](http://fie.main.jp/b/en/)
 
@@ -144,7 +144,7 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Legends of Equestria](http://www.legendsofequestria.com) - A massively multiplayer online role-playing game which takes place in the mystical realm of Equestria.
 
-- [PonyKart](https://sourceforge.net/projects/ponykart/) (defunct) - Kart racing game featuring characters from My Little Pony.
+- [PonyKart](https://web.archive.org/web/20150106032520/http://ponykart.net/) (defunct) - Kart racing game featuring characters from My Little Pony.
 
 - [Pony Town](https://pony.town)
 
