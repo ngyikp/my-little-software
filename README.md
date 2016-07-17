@@ -12,6 +12,8 @@ This list is far from complete, please feel free to contribute your suggestions!
 
 - [PonyAR](http://ponyar.net) - PonyAR uses augmented reality to put more ponies in your life!
 
+- [Pony Station](http://ponyclock.com) - The My Little Pony Countdown
+
 - [Pony Countdown](http://ponycountdown.com) - How long until the next episode of My Little Pony - Friendship is Magic.
 
 - [Pony Drama Generator](http://ponydrama.com)
@@ -74,11 +76,13 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Derpibooru](https://github.com/deliciousblackink/Derpibooru) - The Derpibooru Mobile Client for Android
 
-- [MLP:FIM Soundboard](https://www.facebook.com/mlpfimsoundboardandroid/info/) (defunct)
+- [MLP:FIM Soundboard](https://www.facebook.com/mlpfimsoundboardandroid/info/) (semi-defunct, [alternate forum topic](http://www.bronies.de/showthread.php?tid=23910))
 
 - [Muzei Ponies](https://play.google.com/store/apps/details?id=so.codeweaver.muzei.ponies) - This plugin for [Muzei](http://www.muzei.co) allows you to leverage Derpibooru's massive image database to automatically provide you with new, fresh wallpapers!
 
 - [PonyMotes](https://play.google.com/store/apps/details?id=com.dinsfire.ponymotes) - An Android utility for managing the thousands of PonyMotes that are available from dozens of pony subreddits on Reddit.
+
+- Window to Equestria (taken down from Play Store, [alternate forum topic](http://www.bronies.de/showthread.php?tid=18560)) - Window to Equestria uses augmented reality to put more ponies in your life!
 
 ## Windows Store apps
 
@@ -110,19 +114,7 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 ## Games
 
-- [Ambient.Prologue](http://albdifferent.com)
-
 - [Cards Against Equestria](http://cardsagainstequestria.com) - Pony-themed clone of Cards Against Humanity
-
-- [Fallout Equestria: Game](http://theovermare.com/blog/2016/02/wave-3-demo-better-late-than-never-edition)
-
-- [Fighting is Magic](http://mlpfanart.wikia.com/wiki/Fighting_is_Magic)
-
-- [Friendship is Epic](http://fie.main.jp/b/en/)
-
-- [Horse Game](http://equidev.net)
-
-- [Legends of Equestria](http://www.legendsofequestria.com) - A massively multiplayer online role-playing game which takes place in the mystical realm of Equestria.
 
 - [My Little Karaoke](https://www.mylittlekaraoke.com) - Singing is Magic!
 
@@ -130,16 +122,42 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [PonyClicker](https://blackhole12.github.io/PonyClicker/ponyclicker.html) - A new way to waste time on your computer, now with ponies!
 
-- [Pony Town](https://pony.town)
+- [Pony World](https://sourceforge.net/projects/ponyworld/) - A MLP-FiM themed game, which uses the Blender Game Engine.
 
 - [PonyVRville](http://kaitouace.com/vr/) - A MLP inspired, and Oculus Rift DK2 (0.6 SDK) enabled, virtual horse simulator.
 
 - [Waiting is Magic](http://pentastudios.com/games/waitingismagic/) - Play Rainbow Dash in this groundbreaking game and bounce a ball against a wall.
+
+## Games in development
+
+- [Ambient.Prologue](http://albdifferent.com)
+
+- [Everfree Outpost](http://www.everfree-outpost.com) - A game about ponies getting lost in the woods.
+
+- [Fallout Equestria: Game](http://theovermare.com/blog/2016/02/wave-3-demo-better-late-than-never-edition)
+
+- [Fighting is Magic](http://mlpfanart.wikia.com/wiki/Fighting_is_Magic) (defunct)
+
+- [Friendship is Epic](http://fie.main.jp/b/en/)
+
+- [Horse Game](http://equidev.net)
+
+- [Legends of Equestria](http://www.legendsofequestria.com) - A massively multiplayer online role-playing game which takes place in the mystical realm of Equestria.
+
+- [PonyKart](https://sourceforge.net/projects/ponykart/) (defunct) - Kart racing game featuring characters from My Little Pony.
+
+- [Pony Town](https://pony.town)
+
+- [Ponyvania: Order of Equestria](http://ziggylung.com/games_1.html) - A 2D action-platformer fangame based on Castlevania and My Little Pony.
+
+- [UnityPonyMMO](https://www.youtube.com/watch?v=Zoij7kXTGog)
 
 ## Programming languages
 
 - [FiM++](http://fimpp.wikia.com/wiki/FiM%2B%2B_Wiki) - FiM++ attempts to be an easy-to-read-aloud programming language that, if you didn't know it was a program, you would think is a letter.
 
 ## Misc
+
+- [Pony Creator](http://generalzoi.deviantart.com/art/Pony-Creator-v3-545889253)
 
 - [PonyAPI](https://github.com/Xe/PonyAPI) - A simple REST API for My Little Pony: Friendship is Magic episodes and many clients for it
