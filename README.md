@@ -166,6 +166,6 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [PonyAPI](https://github.com/Xe/PonyAPI) - A simple REST API for My Little Pony: Friendship is Magic episodes and many clients for it
 
-- [Pony Creator](http://generalzoi.deviantart.com/art/Pony-Creator-v3-545889253) - A small virtual reality app where you can toy with the SFM ponies models.
+- [Pony Creator](http://generalzoi.deviantart.com/art/Pony-Creator-v3-545889253)
 
-- [Pony Viewer](http://greygears.tumblr.com/post/144598747117/lyra-be-like-hey-stud-guess-what-i-put-in)
+- [Pony Viewer](http://greygears.tumblr.com/post/144598747117/lyra-be-like-hey-stud-guess-what-i-put-in) - A small virtual reality app where you can toy with the SFM ponies models.
