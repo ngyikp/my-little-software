@@ -90,6 +90,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 ## Browser extensions/bookmarklets/related stuff
 
+- [Angry Ponies](http://angryponies.herokuapp.com) (defunct) - Angry Birds, but 20% cooler.
+
 - [BetterPonymotes](https://ponymotes.net/bpm/) - View Reddit ponymotes across the site
 
 - [Browser Ponies](http://panzi.github.io/Browser-Ponies/) - Lets you place ponies on websites.
@@ -146,6 +148,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Legends of Equestria](http://www.legendsofequestria.com) - A massively multiplayer online role-playing game which takes place in the mystical realm of Equestria.
 
+- [PixelShy](https://www.youtube.com/watch?v=nPaVZHfDuK4)
+
 - [PonyKart](https://web.archive.org/web/20150106032520/http://ponykart.net/) (defunct) - Kart racing game featuring characters from My Little Pony.
 
 - [Pony Town](https://pony.town)
@@ -160,6 +164,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 ## Misc
 
-- [Pony Creator](http://generalzoi.deviantart.com/art/Pony-Creator-v3-545889253)
-
 - [PonyAPI](https://github.com/Xe/PonyAPI) - A simple REST API for My Little Pony: Friendship is Magic episodes and many clients for it
+
+- [Pony Creator](http://generalzoi.deviantart.com/art/Pony-Creator-v3-545889253) - A small virtual reality app where you can toy with the SFM ponies models.
+
+- [Pony Viewer](http://greygears.tumblr.com/post/144598747117/lyra-be-like-hey-stud-guess-what-i-put-in)
