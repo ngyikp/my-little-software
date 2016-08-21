@@ -68,6 +68,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 ## iOS apps
 
+- [BronyTunes](https://itunes.apple.com/us/app/bronytunes/id672120864?mt=8) - Listen to music by all of your favorite brony musicians, and discover new ones!
+
 - [Derpiboo](https://github.com/auzbuzzard/project-derpi) - An iOS app project for derpibooru.org written by an amateur programmer.
 
 - [Pony Cons](http://ponycons.com) - Keep track of dozens of pony conventions.
