@@ -142,6 +142,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Fallout Equestria: Game](http://theovermare.com/blog/2016/02/wave-3-demo-better-late-than-never-edition)
 
+- [Fallout: Equestria RPG](https://falloutequestriarpg.wordpress.com) (defunct) - A videogame putting the universe of Kkat in a Fallout-like experience.
+
 - [Fighting is Magic](https://web.archive.org/web/20130208141634/http://www.mane6.com/) (defunct) - A fan-made 2d fighting game based on the popular cartoon series My Little Pony: Friendship is Magic.
 
 - [Friendship is Epic](http://fie.main.jp/b/en/)
@@ -150,15 +152,17 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Legends of Equestria](http://www.legendsofequestria.com) - A massively multiplayer online role-playing game which takes place in the mystical realm of Equestria.
 
+- [MLP Online](https://web.archive.org/web/20121114204059/http://www.mlponline.net/) (defunct) - A fan based project for the creation of an MMORPG of My little pony: friendship is magic.
+
 - [PixelShy](https://www.youtube.com/watch?v=nPaVZHfDuK4)
 
 - [PonyKart](https://web.archive.org/web/20150106032520/http://ponykart.net/) (defunct) - Kart racing game featuring characters from My Little Pony.
 
+- [PonyRoom Online Game](http://ponyroomonline.tumblr.com)
+
 - [Pony Town](https://pony.town)
 
 - [Ponyvania: Order of Equestria](http://ziggylung.com/games_1.html) - A 2D action-platformer fangame based on Castlevania and My Little Pony.
-
-- [UnityPonyMMO](https://www.youtube.com/watch?v=Zoij7kXTGog)
 
 ## Programming languages
 
