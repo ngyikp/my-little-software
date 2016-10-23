@@ -80,6 +80,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Derpibooru](https://github.com/deliciousblackink/Derpibooru) - The Derpibooru Mobile Client for Android
 
+- [MLP FIM LiveWallpaper](https://www.facebook.com/MLPLiveWallpaper) (taken down from Play Store, [preserved at GitHub](https://github.com/ngyikp/mlp-livewallpaper)) - Make your phone at least 20% cooler by adding animated 8bit ponies to your background
+
 - [MLP:FIM Soundboard](https://www.facebook.com/mlpfimsoundboardandroid/info/) (semi-defunct, [alternate forum topic](http://www.bronies.de/showthread.php?tid=23910))
 
 - [Muzei Ponies](https://play.google.com/store/apps/details?id=so.codeweaver.muzei.ponies) - This plugin for [Muzei](http://www.muzei.co) allows you to leverage Derpibooru's massive image database to automatically provide you with new, fresh wallpapers!
