@@ -60,6 +60,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Luna's Dreamwalk](https://github.com/Evenprime/LunasDreamwalk) - Savegame editor for the popular mobile game "My Little Pony"
 
+- [PonyApp](https://web.archive.org/web/20160402131823/http://catch404.net/projects/ponyapp/) - A pony that walks around my task bar.
+
 - [ponysay](https://github.com/erkin/ponysay) - cowsay reimplemention for ponies.
 
 - [Ponyville Live! Desktop App](https://chrome.google.com/webstore/detail/ponyville-live-desktop-ap/hladljgddjaoinnigfcokaglahhcpilm) - An all in one location for all your favourite pony stations!
