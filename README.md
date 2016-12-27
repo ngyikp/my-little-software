@@ -10,6 +10,8 @@ This list is far from complete, please feel free to contribute your suggestions!
 
 - [My Little Pony: Markov Chains Are Magic!](http://blackhole12.github.io/mlpmarkov/) - A random episode transcript generator using markov chains
 
+- [placeponi.es](http://placeponi.es) - Put a pony in your placeholder.
+
 - [PonyAR](http://ponyar.net) - PonyAR uses augmented reality to put more ponies in your life!
 
 - [Pony Station](http://ponyclock.com) - The My Little Pony Countdown
@@ -78,6 +80,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 ## Android apps
 
+- [BronyLiveWallpaper](https://github.com/frankkienl/BronyLiveWallpaper) - Live Wallpaper for Android
+
 - [Derpibooru](https://github.com/deliciousblackink/Derpibooru) - The Derpibooru Mobile Client for Android
 
 - [MLP FIM LiveWallpaper](https://www.facebook.com/MLPLiveWallpaper) (taken down from Play Store, [preserved at GitHub](https://github.com/ngyikp/mlp-livewallpaper)) - Make your phone at least 20% cooler by adding animated 8bit ponies to your background
@@ -141,6 +145,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 ## Games in development
 
 - [Ambient.Prologue](http://albdifferent.com)
+
+- [Equestrian Railways](https://vk.com/equrail)
 
 - [Everfree Outpost](http://www.everfree-outpost.com) - A game about ponies getting lost in the woods.
 
