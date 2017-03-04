@@ -4,6 +4,8 @@ There are many lists of pony artists and musicians out there, why not a list of 
 
 This list is far from complete, please feel free to contribute your suggestions! 😉
 
+[More lists at GitHub](https://github.com/search?utf8=%E2%9C%93&q=topic%3Amylittlepony&type=Repositories&ref=searchresults)
+
 ## Websites
 
 - [My Little Pony: Friendship is Magic Episode Guide](http://zhangyijiang.github.io/mlp-guide/) - An episode guide for My Little Pony: Friendship is Magic
