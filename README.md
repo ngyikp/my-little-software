@@ -178,6 +178,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [FiM++](http://fimpp.wikia.com/wiki/FiM%2B%2B_Wiki) - FiM++ attempts to be an easy-to-read-aloud programming language that, if you didn't know it was a program, you would think is a letter.
 
+- [BrainPuff](https://github.com/juju2143/flufflepuff) - BrainPuff is a programming language based on Brainfuck and the speech of everypony's favorite fluffy pony, Fluffle Puff.
+
 ## Misc
 
 - [PonyAPI](https://github.com/Xe/PonyAPI) - A simple REST API for My Little Pony: Friendship is Magic episodes and many clients for it
