@@ -148,11 +148,11 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Ambient.Prologue](http://albdifferent.com)
 
+- [Ashes of Equestria](https://theovermare.com)
+
 - [Equestrian Railways](https://vk.com/equrail)
 
 - [Everfree Outpost](http://www.everfree-outpost.com) - A game about ponies getting lost in the woods.
-
-- [Fallout Equestria: Game](http://theovermare.com/blog/2016/02/wave-3-demo-better-late-than-never-edition)
 
 - [Fallout: Equestria RPG](https://falloutequestriarpg.wordpress.com) (defunct) - A videogame putting the universe of Kkat in a Fallout-like experience.
 
