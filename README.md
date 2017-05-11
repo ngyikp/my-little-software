@@ -190,6 +190,4 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Pony Viewer](http://greygears.tumblr.com/post/144598747117/lyra-be-like-hey-stud-guess-what-i-put-in) - A small virtual reality app where you can toy with the SFM ponies models.
 
-## CMS
-
-- [Twi](http://github.com/octet-stream/twi) – Fanfiction library engine, mostly focused on **My Little Pony: Friendship is Magic** community.
+- [Twi](https://github.com/octet-stream/twi) - Fanfiction library engine (still in development) 📚
