@@ -146,7 +146,7 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 ## Games in development
 
-- [Ambient.Prologue](http://albdifferent.com)
+- [Ambient.White](http://albdifferent.com)
 
 - [Ashes of Equestria](https://theovermare.com)
 
