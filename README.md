@@ -54,6 +54,8 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [Ponyville Live!](http://ponyvillelive.com) - Equestria's largest Brony multimedia network, featuring 24/7 pony radio, videos, podcasts, convention coverage, and more.
 
+- [HoovesSound](https://hoovessound.ml) - An ultimate premium like pony music streaming platform
+
 ## Desktop software
 
 - [CelestiaSunrise](https://github.com/Arzaroth/CelestiaSunrise) - Edit your MLP saves with the power of the true goddess.
