@@ -42,7 +42,10 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 
 - [FIMFiction](http://www.fimfiction.net) - My Little Pony: Friendship is Magic Fanfiction
 
+- [HoovesSound](https://hoovessound.ml) - An ultimate premium like pony music streaming platform
+
 - [MLPVC-RR](https://mlpvc-rr.ml) - MLP-VectorClub Requests / Reservations / Color Guide website
+
 
 - [MyLittleFaceWhen](http://mylittlefacewhen.com) - Express yourself with ponies
 
@@ -53,8 +56,6 @@ A website is considered as a ‘platform’ if it primarily hosts user-generated
 - [Pony.fm](https://pony.fm) - The world's largest collection of My Little Pony fan music.
 
 - [Ponyville Live!](http://ponyvillelive.com) - Equestria's largest Brony multimedia network, featuring 24/7 pony radio, videos, podcasts, convention coverage, and more.
-
-- [HoovesSound](https://hoovessound.ml) - An ultimate premium like pony music streaming platform
 
 ## Desktop software
 
